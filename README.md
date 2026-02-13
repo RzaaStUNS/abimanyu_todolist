@@ -25,7 +25,7 @@ http://localhost:<port>/swagger
 ```
 
 B. Versi .NET yang Digunakan
-Proyek ini dibangun menggunakan versi LTS (Long Term Support) terbaru untuk memastikan stabilitas dan performa: 
+Proyek ini dibangun menggunakan versi LTS (Long Term Support) terbaru: 
 
 
 .NET 8.0 (x64) 
