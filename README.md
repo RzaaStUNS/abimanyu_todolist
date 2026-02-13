@@ -10,6 +10,8 @@ Lakukan cloning pada repository ini:
 ```Bash
 git clone https://github.com/RzaaStUNS/abimanyu_todolist.git
 ```
+![Terminal Preview](./assets/terminal.png)
+
 Masuk ke direktori utama project:
 ```Bash
 cd abimanyu_todolist
