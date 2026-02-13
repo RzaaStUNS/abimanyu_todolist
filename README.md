@@ -10,7 +10,7 @@ Lakukan cloning pada repository ini:
 ```Bash
 git clone https://github.com/RzaaStUNS/abimanyu_todolist.git
 ```
-![Terminal Preview](./assets/SS dotnetrun.png)
+![Terminal Preview](./assets/TerminalSS.png)
 
 Masuk ke direktori utama project:
 ```Bash
