@@ -1,7 +1,4 @@
 # Todo List API - Technical Test Backend (.NET)
-
-REST API sederhana untuk mengelola Todo List, dibangun menggunakan ASP.NET Core Web API dan MySQL.
-
 ## A.Cara Menjalankan Project
 1. Pastikan database MySQL sudah berjalan (misalnya melalui XAMPP).
 2. Clone repository ini:
