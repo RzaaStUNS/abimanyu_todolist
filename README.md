@@ -12,7 +12,7 @@
 ## C.Cara Setup Database Migration
 - Saya menggunakan MySQL dengan Entity Framework Core yang dimana Code-First Approach
 - Langkah-langkah yang perlu dilakukan adalah
-1. Buka file appsettings.json dan pastikan konfigurasi ConnectionStrings sudah sesuai dengan environment lokal yang digunakan (saya menggunakan localhosst dan dengan nama database di mysql todolistabim_db):
+1. Buka file appsettings.json dan pastikan konfigurasi ConnectionStrings sudah sesuai dengan environment lokal yang digunakan (saya menggunakan localhost dan dengan nama database di mysql todolistabim_db):
 ```bash
 "ConnectionStrings": {
   "DefaultConnection": "Server=localhost;Database=todolistabim_db;User=root;Password=;"
