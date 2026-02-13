@@ -25,7 +25,10 @@ Aplikasi akan berjalan secara otomatis. Anda dapat langsung mencoba seluruh endp
 ```bash 
 http://localhost:<port>/swagger
 ```
+Dibawah ini ada contoh gambar link port swaggernya
 ![Terminal Preview](./assets/PortSS.png)
+
+Dibawah ini adalah contoh gambar swagger yang kita buka menggunakan link port localhost kita
 ![Terminal Preview](./assets/LinkSS.png)
 
 B. Versi .NET yang Digunakan
