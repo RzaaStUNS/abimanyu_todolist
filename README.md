@@ -25,6 +25,8 @@ Aplikasi akan berjalan secara otomatis. Anda dapat langsung mencoba seluruh endp
 ```bash 
 http://localhost:<port>/swagger
 ```
+![Terminal Preview](./assets/PortSS.png)
+![Terminal Preview](./assets/LinkSS.png)
 
 B. Versi .NET yang Digunakan
 Proyek ini dibangun menggunakan versi LTS (Long Term Support) terbaru: 
