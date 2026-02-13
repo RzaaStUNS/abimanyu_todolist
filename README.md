@@ -10,8 +10,6 @@ Lakukan cloning pada repository ini:
 ```Bash
 git clone https://github.com/RzaaStUNS/abimanyu_todolist.git
 ```
-![Terminal Preview](./assets/TerminalSS.png)
-
 Masuk ke direktori utama project:
 ```Bash
 cd abimanyu_todolist
@@ -21,6 +19,8 @@ Jalankan aplikasi menggunakan terminal:
 ```Bash
 dotnet run
 ```
+![Terminal Preview](./assets/TerminalSS.png)
+
 Aplikasi akan berjalan secara otomatis. Anda dapat langsung mencoba seluruh endpoint melalui Swagger UI yang tersedia di:
 ```bash 
 http://localhost:<port>/swagger
